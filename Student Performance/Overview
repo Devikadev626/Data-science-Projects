@@ -1,5 +1,5 @@
 
-#student Performance Prediction using Machine Learning
+student Performance Prediction using Machine Learning
 This is my first Machine Learning project!
 It predicts student performance (final exam score) based on feature study hours  using a Linear Regression model.
 
